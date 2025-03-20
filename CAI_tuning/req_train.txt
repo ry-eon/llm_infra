@@ -1,0 +1,7 @@
+openai
+pandas
+transformers
+accelerate
+datasets
+trl
+bitsandbytes

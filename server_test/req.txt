@@ -1,0 +1,7 @@
+locust
+psutil
+fastapi
+uvicorn
+pytest
+pytest-asyncio
+httpx
